@@ -1,2 +1,4 @@
 This is line one.
-This is test.
+This is test.\
+
+Hi, this is my 4th commit.
